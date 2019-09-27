@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Spot Info</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password:</string>
+    <string name="email">Email:</string>
+    <string name="spotinfo">SpotInfo</string>
+    <string name="sign_me_up">Sign Me Up!</string>
+    <string name="confirm_password">Confirm Password:</string>
+    <string name="password2">Password:</string>
+    <string name="username">Username:</string>
+    <string name="sign_up2">Sign Up</string>
+    <string name="home">Home</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="go_to_list_view">Go to List View</string>
+    <string name="return_to_map_view">Return to Map View</string>
+</resources>
