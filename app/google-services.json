@@ -29,7 +29,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCzs5h0j7vZlnrzaDC7zyHVXlCEvJWfuf0"
+          "current_key": "@string/google_maps_key"
         }
       ],
       "services": {
